@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.KgTeknolojiOSS:ExpandableLayout-2.0.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ExpandableLayout-2.0.0.aar/26fad5099e176a07776bdd8135f30e68/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ExpandableLayout-2.0.0.aar/26fad5099e176a07776bdd8135f30e68/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ExpandableLayout-2.0.0.aar/26fad5099e176a07776bdd8135f30e68/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
